@@ -1,0 +1,1 @@
+Aufgabe 2 aus dem Praktikum von PR1
